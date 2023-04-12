@@ -1,0 +1,21 @@
+
+.Tag {
+  font-size: 15px;
+  position: fixed;
+  bottom: 0;
+   
+   
+
+}
+
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* fazendo isso aqui a genta faz com que todos os elemtos estejam alinhados na vertical e baseado na central da tela. */
+
+
